@@ -3,4 +3,10 @@
 *{
     font-family: 'Montserrat', sans-serif;
 }
+.card:hover
+{
+    transition: 1.5s;
+    transform: scale(1.07);
+    cursor: pointer;
 
+}
